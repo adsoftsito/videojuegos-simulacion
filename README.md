@@ -12,5 +12,5 @@ npm install -g @angular/cli@10.0.8
 
 # Semana 1, Tareas (Fecha entrega: 15/feb/2021)
 1. Crear repositorio: simulacion-nombre-apellido
-1. Publicar proyecto en servidor Centos, montar docker en puerto asignado en excel, crear carpeta T1 y subir SS de la pagina
-2. Publicar proyecto en firebase, nombre dominio:  https://goals-nombre-apellido.web.app, crear carpeta T2 subir t2.txt con url de firebase
+1. Publicar proyecto (testing) en servidor Centos, montar docker en puerto asignado en excel, crear carpeta T1 y subir SS de la pagina
+2. Publicar proyecto (produccion) en firebase, nombre dominio:  https://goals-nombre-apellido.web.app, crear carpeta T2 subir t2.txt con url de firebase
