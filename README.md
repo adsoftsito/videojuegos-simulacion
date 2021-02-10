@@ -6,9 +6,19 @@
 
 npm install -g @angular/cli@10.0.8
 
-3. Realizar paso a paso el tutorial de Udemy 
+3. Realizar paso a paso el tutorial de [Udemy](https://www.udemy.com/course/angular-5/) 
 
--	[linux-commands](https://github.com/adsoftsito/web/blob/main/w1/linuxcommands.pdf)
+-	Installing
+- Components
+- Templating & Styling
+
+# Semana 1, sesion 2 - Curso Angular (Continuacion)
+
+- Interpolation, Property & Event Binding
+- Animation
+- Routing
+- Services
+- App Deployment
 
 # Semana 1, Tareas (Fecha entrega: 15/feb/2021)
 1. Crear repositorio: simulacion-nombre-apellido
