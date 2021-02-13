@@ -1,5 +1,6 @@
 # Video juegos / simulacion - [lista de clase](https://docs.google.com/spreadsheets/d/1Gt1NzTY9RF_GgJ4s3bbyzmK8E03NdKU0vov23NiPvbg/edit#gid=0)
 # Sesiones
+[Mie 10-feb-2021](https://itesm.zoom.us/rec/share/J_Iov2UU0LqDfBeptBwAlKr50C-obp6faQKROU9yOisZUmqmm7xZeGmtIos1r8PC.IIhIDtv-KvF5LXtf)
 [Vie 12-feb-2021](https://itesm.zoom.us/rec/share/8t6toRoW2yi28Hwniq4TDzZ8EyXG-IqHix2us7SBc13hDFwnGr6xOe78EGuQ9oj8.CCDe5fhl-dy_ZnpE)
 
 # Semana 1, sesion 1 - Conectividad a servidor, repaso de Linux y editor vi
