@@ -1,4 +1,7 @@
 # Video juegos / simulacion - [lista de clase](https://docs.google.com/spreadsheets/d/1Gt1NzTY9RF_GgJ4s3bbyzmK8E03NdKU0vov23NiPvbg/edit#gid=0)
+# Sesiones
+[Vie 12-feb-2021](https://itesm.zoom.us/rec/share/8t6toRoW2yi28Hwniq4TDzZ8EyXG-IqHix2us7SBc13hDFwnGr6xOe78EGuQ9oj8.CCDe5fhl-dy_ZnpE)
+
 # Semana 1, sesion 1 - Conectividad a servidor, repaso de Linux y editor vi
 
 1. Instalar nodejs 10: [windows](https://nodejs.org/dist/latest-v10.x/) [linux via nvm](https://www.digitalocean.com/community/tutorials/como-instalar-node-js-en-ubuntu-18-04-es)
