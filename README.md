@@ -28,3 +28,9 @@ $ npm install -g @angular/cli@10.0.8
 1. Crear repositorio: simulacion-nombre-apellido
 2. Publicar proyecto (testing) en servidor Centos, montar docker en puerto asignado en excel, crear carpeta T1 y subir SS de la pagina
 3. Publicar proyecto (produccion) en firebase, nombre dominio:  https://goals-nombre-apellido.web.app, crear carpeta T2 subir t2.txt con url de firebase
+
+# Semana 2, sesion 1 - Repaso de HTML y CSS
+
+1. Realizar la practica de [html](https://www.htmldog.com/guides/html/beginner/)
+2. Realizar la practica de [css](https://www.htmldog.com/guides/css/)
+
