@@ -36,7 +36,7 @@ $ npm install -g @angular/cli@10.0.8
 
 # Semana 2 - sesion 2 Angular con Leaflet Maps
 
-1. Realizar Lab de Angular [Maps](https://github.com/adsoftsito/apis/blob/master/w2/dockerfront.pdf)
+1. Realizar Lab de Angular [Leaflet Maps](https://github.com/adsoftsito/videojuegos-simulacion/blob/main/w2/dockerfront.pdf)
 
 # Semana 2, Tareas (Fecha entrega: Pendiente)
 
