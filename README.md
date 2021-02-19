@@ -34,3 +34,10 @@ $ npm install -g @angular/cli@10.0.8
 1. Realizar la practica de [html](https://www.htmldog.com/guides/html/beginner/)
 2. Realizar la practica de [css](https://www.htmldog.com/guides/css/)
 
+# Semana 2 - sesion 2 Angular con Leaflet Maps
+
+1. Realizar Lab de Angular [Maps](https://github.com/adsoftsito/apis/blob/master/w2/dockerfront.pdf)
+
+# Semana 2, Tareas (Fecha entrega: Pendiente)
+
+1. Publicar el proyecto de Leaflet en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T3 y subir SS de la pagina
