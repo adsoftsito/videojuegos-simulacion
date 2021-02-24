@@ -41,3 +41,8 @@ $ npm install -g @angular/cli@10.0.8
 # Semana 2, Tareas (Fecha entrega: Pendiente)
 
 1. Publicar el proyecto de Leaflet en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T3 y subir SS de la pagina
+
+# Semana 3 - sesion 1 Angular templates
+
+1. Analizar posibles templates para proyecto [Angular 10](https://www.creative-tim.com/templates/angular-free)
+
