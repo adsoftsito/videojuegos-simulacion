@@ -46,3 +46,7 @@ $ npm install -g @angular/cli@10.0.8
 
 1. Analizar posibles templates para proyecto [Angular 10](https://www.creative-tim.com/templates/angular-free)
 
+# Semana 5 
+
+1. Crear codigo base para el proyecto
+2. Instalar [Unity](https://learn.unity.com/mission/real-time-creation-essentials?pathwayId=5f7bcab4edbc2a0023e9c38f)
